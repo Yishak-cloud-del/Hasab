@@ -1,0 +1,30 @@
+### Node.js (news-api)
+news-api/node_modules/
+news-api/.env
+news-api/logs/
+news-api/npm-debug.log*
+news-api/yarn-debug.log*
+news-api/yarn-error.log*
+
+### Flutter (B_B_C)
+B_B_C/build/
+B_B_C/.dart_tool/
+B_B_C/.packages
+B_B_C/.flutter-plugins
+B_B_C/.flutter-plugins-dependencies
+B_B_C/.idea/
+B_B_C/lib/
+B_B_C/.gradle/
+B_B_C/android/.gradle/
+B_B_C/android/app/build/
+B_B_C/ios/Pods/
+B_B_C/ios/Flutter/Flutter.framework
+B_B_C/ios/Flutter/Flutter.podspec
+B_B_C/pubspec.lock
+
+### OS & editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.iml
+*.lock
